@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,16 +15,21 @@
         </div>
 
         <nav class="navigation">
+            <ul class="menu">
+                <li><a href="">NEW</a></li>
+                <li><a href="">COLLECTION</a></li>
+                <li><a href="">CLOTHING</a></li>
+                <li><a href="">SALE</a></li>
+            </ul>
             <a href="#" class="logo">
                 <img src="" alt="logo" />
             </a>
 
             <ul class="menu">
-                <li><a href="" class="active">Home</a></li>
-                <li><a href="">Home</a></li>
-                <li><a href="">Home</a></li>
-                <li><a href="">Home</a></li>
-                <li><a href="">Home</a></li>
+                <li><a href="">ABOUT</a></li>
+                <li><a href="">STORE</a></li>
+                <li><a href="">SUPPORT</a></li>
+                <li><a href="">CURRENCY</a></li>  
             </ul>
 
         </nav>
